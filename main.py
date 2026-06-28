@@ -1,0 +1,7 @@
+print("Welcome to the YouTube Channel Name Generator: ")
+print( )
+name = input("What is your nickname?\n")
+print( )
+topic = input("What is your channel about?\n")
+print( )
+print(f"You could name your channel '{topic} with {name}'")
